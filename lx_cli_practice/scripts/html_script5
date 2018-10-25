@@ -1,0 +1,9 @@
+/#!/bin/bash
+echo "<HTML>"
+echo "	<HEAD>"
+echo "		<TITLE>Page Title</TITLE>"
+echo "	</HEAD>"
+echo "	<BODY>"
+echo "		<H2>HELLO PAGE</H2>"
+echo "	</BODY>"
+echo "</HTML>"

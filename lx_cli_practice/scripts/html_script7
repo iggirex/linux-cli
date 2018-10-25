@@ -1,0 +1,11 @@
+/#!/bin/bash
+# Program to output a system information page 
+# Program to output a system information page 
+echo "<HTML>"
+echo "	<HEAD>"
+echo "		<TITLE>Page Title</TITLE>"
+echo "	</HEAD>"
+echo "	<BODY>"
+echo "		<H2>HELLO PAGE</H2>"
+echo "	</BODY>"
+echo "</HTML>"
